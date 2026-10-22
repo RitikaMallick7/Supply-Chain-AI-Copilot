@@ -16,7 +16,7 @@ from langchain_classic.chains import RetrievalQA
 from langchain_groq import ChatGroq
 
 
-# ------------------------
+
 # Load API Key
 
 load_dotenv()
